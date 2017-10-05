@@ -1,2 +1,0 @@
-This is a file 20170925_Andrea_Branch_Test_file.txt in folder 20170925_Andrea_Branch_Test
-to test Branching
