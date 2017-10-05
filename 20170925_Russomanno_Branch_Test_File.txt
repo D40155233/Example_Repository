@@ -1,2 +1,0 @@
-This is file 20170925_Russomanno_Branch_Test_File.txt
-to test Branching
